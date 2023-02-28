@@ -142,3 +142,14 @@ dmypy.json
 .prof
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+
+.trybe \
+.github \
+trybe.yml \
+trybe-filter-repo.sh \
+tests/test_anagrams.py \
+tests/test_find_the_duplicate.py \
+tests/test_palindromes_iterative.py \
+tests/test_palindromes_recursive.py \
+tests/test_study_schedule.py \
+README.md \
